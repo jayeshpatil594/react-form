@@ -1,0 +1,4 @@
+export const SAVE_PRICE_FORM_DATA = 'SAVE_PRICE_FORM_DATA';
+export const NEXT_STEP = 'NEXT_STEP';
+export const RESET_STEP = 'RESET_STEP';
+export const SAVE_PLAN_FORM_DATA = 'SAVE_PLAN_FORM_DATA';
